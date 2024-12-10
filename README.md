@@ -19,7 +19,7 @@ Datasheets and Manuals:
 
 - [AN3997: Audio playback and recording using the STM32F4DISCOVERY](https://github.com/user-attachments/files/18083098/AN3997.pdf)
 
--[AN3998: PDM audio software decoding on STM32 microcontrollers](https://github.com/user-attachments/files/18083099/AN3998.pdf)
+- [AN3998: PDM audio software decoding on STM32 microcontrollers](https://github.com/user-attachments/files/18083099/AN3998.pdf)
 
 Tutorials and Youtube Videos:
 
