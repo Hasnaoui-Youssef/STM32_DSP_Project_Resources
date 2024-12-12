@@ -33,3 +33,4 @@ Useful Repos:
 - [STM32 Tutorials by MYaqoobEmbedded](https://github.com/MYaqoobEmbedded/STM32-Tutorials/tree/master)
 - [STM32F407 Discovery STM32Cube Audio Recording by Dooque](https://github.com/Dooque/stm32f407-discovery_stm32cube-audio_recording/tree/master)
 - [STM32F4-Discovery Firmware by nabilt](https://github.com/nabilt/STM32F4-Discovery-Firmware/tree/master)
+- [Audio DSP FULL PROJECT](https://github.com/umer06/Audio-DSP/tree/master)
